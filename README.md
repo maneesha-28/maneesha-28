@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maneesha-28
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web3 Development
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me via e-mail : manishanairnair2002@gmail.com
